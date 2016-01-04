@@ -1,0 +1,53 @@
+/* Ovdje definiramo CSS svojstva */
+div{
+	float: left;
+}
+.clear{
+	clear: both;
+}
+
+.ocjena-2{
+	min-width: 100px;
+	min-height: 200px;
+	background-color: gray;
+	border-right: 2px solid red;
+}
+
+.ocjena-2::after { 
+    content: " \A 2";
+    white-space: pre;
+    font-size: 10em;
+}
+.ocjena-3{
+	min-width: 100px;
+	min-height: 300px;
+	background-color: yellow;
+	border-right: 2px solid red;
+}
+.ocjena-3::after { 
+    content: " \A 3";
+    white-space: pre;
+    font-size: 10em;
+}
+.ocjena-4{
+	min-width: 100px;
+	min-height: 400px;
+	background-color: blue;
+	border-right: 2px solid red;
+}
+.ocjena-4::after { 
+    content: " \A 4";
+    white-space: pre;
+    font-size: 10em;
+}
+.ocjena-5{
+	min-width: 100px;
+	min-height: 500px;
+	background-color: green;
+	border-right: 2px solid red;
+}
+.ocjena-5::after { 
+    content: " \A 5";
+    white-space: pre;
+    font-size: 10em;
+}
