@@ -1,0 +1,29 @@
+raspakirati omsdmzsi.sql.zip
+
+kreirati bazu
+create database omszsi2016;
+
+sipati bazu
+/Applications/xampp/xamppfiles/bin/mysql -u KORISNIK -pLOZINKA omszsi2016 --default_character_set=utf8 < "PUTANJA_DO_DIREKTORIJA/omsdmzsi.sql"
+
+
+pohranjene procedure
+DELIMITER //
+ CREATE PROCEDURE brojdanaumjesecu()
+   BEGIN
+   		CREATE TEMPORARY TABLE IF NOT EXISTS zsi1
+		select 
+		year(datum) as godina,
+		month(datum) as mjesec, 
+		day(datum) as dan, 
+		count(status) as ukupno 
+		from svidamisestatus 
+		group by 
+		year(datum),
+		month(datum), 
+		day(datum)
+		order by datum;
+		select concat(godina,mjesec) as mjesec,count(ukupno) as ukupno from zsi1 group by concat(godina,mjesec) order by 1;
+
+   END //
+ DELIMITER ;
