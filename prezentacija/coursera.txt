@@ -1,0 +1,50 @@
+1
+Digital Marketing
+University of Illinois at Urbana-Champaign
+Skills: Strategic planning and analytics for digital marketing channels
+Learn Digital Marketing
+2
+Data Science
+Johns Hopkins University
+Skills: GitHub, RStudio, and data visualization techniques
+Learn Data Science
+3
+Interaction Design
+University of California, San Diego
+Skills: Prototyping, user testing, and visual design
+Learn Interaction Design
+4
+Business Strategy
+University of Virginia
+Skills: Strategy formulation, execution, and assessment
+Learn Business Strategy
+5
+Strategic Business Analytics
+ESSEC Business School
+Skills: Marketing, supply chain, and human resources analytics
+Learn Business Analytics
+6
+Data Science at Scale
+University of Washington
+Skills: SQL, NoSQL, data mining, and machine learning
+Learn Data Science
+7
+Genomic Data Science
+Johns Hopkins University
+Skills: Python, R, Bioconductor, and Galaxy
+Learn Genomic Data Science
+8
+Organizational Leadership
+Northwestern University
+Skills: Motivation, self-assessment, and conflict management
+Learn Organizational Leadership
+9
+Social Media Marketing
+Northwestern University
+Skills: Campaign management, brand positioning, and content development
+Learn Social Media Marketing
+10
+Strategic Management and Innovation
+Copenhagen Business School
+Skills: Goal setting, value creation, and diversification
+Learn Strategic Management
