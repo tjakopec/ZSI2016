@@ -16,8 +16,8 @@ Dostupa na [poveznici], donosi kratak uvod o web arhitekturi i svim njezinim dio
 * 02_RWD_framework - Koristeći Foundation Responsive Web Design (dizajn prilagodljiv različitim širinama zaslona) prikazuje se princip kreiranja mrežnih mjesta koje se prilagođavaju različitim širinama zaslona. Uz osnovni predložak daju se dva primjera
 * 03_D3_Uvod - Uvod u Data Driven Documents. Uz predložak daju se tri primjera s podacima statički zapisanim u datotekama
 * 04_D3_Implementacija_1 - Primjer vizualizacije podataka iz dane baze na osnovu [Sequences sunburst]
-* 04_D3_Implementacija_2 - Primjer vizualizacije podataka iz dane baze na osnovu [Circular heat chart component for D3]
-* 04_D3_Implementacija_3 - Primjer vizualizacije podataka iz dane baze na osnovu [Platelets]
+* 05_D3_Implementacija_2 - Primjer vizualizacije podataka iz dane baze na osnovu [Circular heat chart component for D3]
+* 06_D3_Implementacija_3 - Primjer vizualizacije podataka iz dane baze na osnovu [Platelets]
 
 ### Korišteni izvori
 
